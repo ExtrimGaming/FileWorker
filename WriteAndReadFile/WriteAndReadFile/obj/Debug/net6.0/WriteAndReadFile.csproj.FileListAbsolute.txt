@@ -1,0 +1,12 @@
+C:\Users\Vladislav_Extrimov\source\repos\WriteAndReadFile\WriteAndReadFile\bin\Debug\net6.0\WriteAndReadFile.deps.json
+C:\Users\Vladislav_Extrimov\source\repos\WriteAndReadFile\WriteAndReadFile\bin\Debug\net6.0\WriteAndReadFile.dll
+C:\Users\Vladislav_Extrimov\source\repos\WriteAndReadFile\WriteAndReadFile\bin\Debug\net6.0\WriteAndReadFile.pdb
+C:\Users\Vladislav_Extrimov\source\repos\WriteAndReadFile\WriteAndReadFile\obj\Debug\net6.0\WriteAndReadFile.csproj.AssemblyReference.cache
+C:\Users\Vladislav_Extrimov\source\repos\WriteAndReadFile\WriteAndReadFile\obj\Debug\net6.0\WriteAndReadFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav_Extrimov\source\repos\WriteAndReadFile\WriteAndReadFile\obj\Debug\net6.0\WriteAndReadFile.AssemblyInfoInputs.cache
+C:\Users\Vladislav_Extrimov\source\repos\WriteAndReadFile\WriteAndReadFile\obj\Debug\net6.0\WriteAndReadFile.AssemblyInfo.cs
+C:\Users\Vladislav_Extrimov\source\repos\WriteAndReadFile\WriteAndReadFile\obj\Debug\net6.0\WriteAndReadFile.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav_Extrimov\source\repos\WriteAndReadFile\WriteAndReadFile\obj\Debug\net6.0\WriteAndReadFile.dll
+C:\Users\Vladislav_Extrimov\source\repos\WriteAndReadFile\WriteAndReadFile\obj\Debug\net6.0\refint\WriteAndReadFile.dll
+C:\Users\Vladislav_Extrimov\source\repos\WriteAndReadFile\WriteAndReadFile\obj\Debug\net6.0\WriteAndReadFile.pdb
+C:\Users\Vladislav_Extrimov\source\repos\WriteAndReadFile\WriteAndReadFile\obj\Debug\net6.0\ref\WriteAndReadFile.dll
